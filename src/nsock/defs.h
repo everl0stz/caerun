@@ -13,12 +13,4 @@ enum class ConnectResult_t {
 enum class DisconnectMode_t {
 	READ, WRITE, ALL
 };
-
-enum SendResult_t {
-	SR_OK
-};
-
-enum RecvResult_t {
-	RR_OK
-};
 }
